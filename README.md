@@ -15,16 +15,19 @@
         <code>
         <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript" alt="TypeScript" title="TypeScript" height="25" />
         </code>
+        <code>
+        <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js" title="VueJS" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js" alt="Nuxt.js" title="NuxtJS" height="25" />
+        </code>
+        <code>
+        <img src="https://img.shields.io/badge/React-20232A?logo=react" alt="Nuxt.js" title="ReactJS" height="25" />
+        </code>
         <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap" alt="Bootstrap" title="Bootstrap" height="25" />
         </code>
         <code>
         <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass" alt="Scss" title="Sass" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js" alt="Nuxt.js" title="Nuxt.js" height="25" />
-        </code>
-        <code>
-        <img src="https://img.shields.io/badge/Vue.js-282C34?logo=Vue.js" alt="Vue.js" title="Vue.js" height="25" />
         </code>
         <code>
         <img src="https://img.shields.io/badge/Webpack-282C34?logo=Webpack" alt="Webpack" title="Webpack" height="25" />
