@@ -1,6 +1,6 @@
-🔭 I'm currently working @Yektanet which is leading advertising platform in Iran.
-📫 How to reach me: zeinab.rezaee67@gmail.com
-⚡ Languages and tools:
+- 🔭 I'm currently working @Yektanet which is leading advertising platform in Iran.
+- 📫 How to reach me: zeinab.rezaee67@gmail.com
+- ⚡ Languages and tools:
 
  <div>
         <code>
@@ -32,6 +32,4 @@
         <code>
         <img src="https://img.shields.io/badge/VisualStudioCode-282C34?logo=VisualStudioCode&logoColor=229EEB" alt="VisualStudioCode" title="VisualStudioCode" height="25" />
         </code>
-
-
     </div>
